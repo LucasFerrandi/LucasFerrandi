@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LucasFerrandi :)
 - 👀 I’m interested in Standard Model Particle Physics and Relativistic Heavy Ion Collisions Simulations
-- 🌱 I’m currently learning how to use CERN ROOT and GLISSANDO ver.3 and more about Particle Physics
-- 💞️ I’m looking to collaborate on [is this a relationship platform? haha]
+- 🌱 I’m currently learning how to use ALICE O2 and more about Particle Physics
 - 📫 How to reach me: lucasferrandi@usp.br
 
 <!---
