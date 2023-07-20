@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasFerrandi :)
-- 👀 I’m interested in Standard Model Particle Physics and Relativistic Heavy Ion Collisions Simulations
-- 🌱 I’m currently learning how to use ALICE O2 and more about Particle Physics
+- 👀 I’m interested in Relativistic Heavy Ion Collisions, focused on ALICE/CERN
+- 🌱 I’m currently learning how to use ALICE O2 framework and working with Quality Control for ALICE
 - 📫 How to reach me: lucasferrandi@usp.br
 
 <!---
